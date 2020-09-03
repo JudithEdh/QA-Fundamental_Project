@@ -37,6 +37,7 @@ The MOSCOW approach was followed to make sure that the essential features of the
 1. User login feature
 2. Advance design on the front end 
 
+![ERD diagram](ERD.png)
 
 ## Planning
 
