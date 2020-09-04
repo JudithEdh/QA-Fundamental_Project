@@ -59,7 +59,7 @@ The following figure shows which technologies were used and the relationship bet
 ![CI diagram](pipeline.png)
 
 ## Planning
-The planning of the project was essential in order to meet the MVP (Minimum Viable Product). The project tracking tool used was a Jira board which allows to produce epics which have user stories with tasks related to them.
+The planning of the project was essential in order to meet the MVP (Minimum Viable Product). The project tracking tool used was a Jira board which allows to produce epics which have user stories with tasks related to them ([Jira Board](https://judithedh.atlassian.net/secure/RapidBoard.jspa?rapidView=1&useStoredSettings=true&atlOrigin=eyJpIjoiNDZlNTMzNTYzNGFjNDViOGJkNjY1ZTNhMzE3Y2IxODkiLCJwIjoiaiJ9)).
 ![User Stories](user.png)
 In order to interact with the tasks dynamically, "sprints" were created. These are a good way to keep track of the progress of the project because it allows to classify the tasks as "to do", "in progress" or done.
 ![PN board](jira.png)
@@ -71,4 +71,30 @@ In order to avoid unexpected issues from happening, a risk assesment table was p
 ![Risk Assessment](Risk.png)
 
 ## Project components
+1. ### Multi Tier Architecture
+The following image shows the multi-tier architecture of the project. 
 ![Project Components](multi.png)
+The user is only able to view the presentation layer which consists of seven web pages acceccible through the following link ([Homepage (http://35.230.142.245:9000/html/RecipesList.html))
+
+![Home Page](home.png)
+2. ### CI Server
+The continuous integration server choosen for the project was circleci (as specified in the requirements). The instructions that the server should perform are specified in the .yml file as shown in the image below.
+![yml file](yml.png)
+
+## Future work and reflection on the project
+Although the application is fully funcyional and meets the MVP, there are multiple features that could be added to it and things that could have been done better.
+1. ### Improve graphics
+At the moment, the web application looks basic so the design aspect of the webpages could be improved.
+2. ### Smoother continuous integration
+Currently, whenever the app runs continuosly on the virtual machine and can be stopped only from the terminal. In the future, extra steps should be added on the .yml file to allow circleci to do it directly.
+3. ### Extra functionality
+Features such as creating a shopping list that can be downloaded based on the ingredients of a recipe and a user login page could be added in the future.
+
+## Summary
+The details of the Recipes Collection web app created as part of QA SFIA Project were described as well as the planning side of the project.
+
+
+#### Author: Judith Edhogbo
+
+
+
