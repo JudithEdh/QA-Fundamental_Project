@@ -12,7 +12,8 @@ The purpose of the project was to create a CRUD (Create Read Update Delete) appl
 - [Planning](#planning)
 - [Risk assessment](#risk-assessment)
 - [Project components](#project-components)
-- [](#)
+- [Future work and reflection on the project](#future-work-and-reflection-on-the-project)
+- [Summary](#summary)
 
 ## Requirements
 The requirements are listed below:
