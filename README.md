@@ -58,5 +58,5 @@ In order to interact with the tasks dynamically, "sprints" were created. These a
 
 
 ## Risk assessment
-
+![Risk Assessment](https://docs.google.com/document/d/1HFkSVNzoGUVQ0q5xYNdBtZqSv8gIKmyCva692vqYvHE/edit?usp=sharing)
 
