@@ -4,7 +4,15 @@
 The purpose of the project was to create a CRUD (Create Read Update Delete) application using all the concepts and skills aquired in the first six weeks in QA academy ([Cloud Native - Fundamental Project Specification](https://portal.qa-community.co.uk/~/cne/projects/fundamental--cn)). 
 
 ## Table of Contents
-
+- [Requirements](#requirements)
+- [Recipes Collection](#recipes-collection)
+- [MOSCOW approach](#moscow-approach)
+- [Database](#database)
+- [CI Pipeline](#ci-pipeline)
+- [Planning](#planning)
+- [Risk assessment](#risk-assessment)
+- [Project components](#project-components)
+- [](#)
 
 ## Requirements
 The requirements are listed below:
