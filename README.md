@@ -33,7 +33,7 @@ The MOSCOW approach was followed to make sure that the essential features of the
 5. Clear documentation and planning
 - #### Should Have
 1. Multiple html pages allowing the user to perform each CRUD functionality
--### Wont have
+- ### Wont have
 1. User login feature
 2. Advance design on the front end 
 
@@ -58,7 +58,9 @@ In order to interact with the tasks dynamically, "sprints" were created. These a
 
 
 ## Risk assessment
-In order to avoid unexpected issues from happening, a risk assesment table was produced that showed potential threats to the project and the mitigation strategy chosen. The table is available on the following lik ([Risk assessment table](https://docs.google.com/document/d/1HFkSVNzoGUVQ0q5xYNdBtZqSv8gIKmyCva692vqYvHE/edit?usp=sharing).
+In order to avoid unexpected issues from happening, a risk assesment table was produced that showed potential threats to the project and the mitigation strategy chosen. The table is available on the following lik ([Risk assessment table](https://docs.google.com/document/d/1HFkSVNzoGUVQ0q5xYNdBtZqSv8gIKmyCva692vqYvHE/edit?usp=sharing)).
 
 ![Risk Assessment](Risk.png)
 
+## Project components
+![Project Components](multi.png)
