@@ -74,7 +74,9 @@ In order to avoid unexpected issues from happening, a risk assesment table was p
 ## Project components
 ### 1. Multi Tier Architecture
 The following image shows the multi-tier architecture of the project. 
+
 ![Project Components](multi.png)
+
 The user is only able to view the presentation layer which consists of seven web pages acceccible through the following link ([Homepage (http://35.230.142.245:9000/html/RecipesList.html))
 
 ![Home Page](home.png)
