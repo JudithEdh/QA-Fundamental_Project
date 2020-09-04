@@ -37,7 +37,17 @@ The MOSCOW approach was followed to make sure that the essential features of the
 1. User login feature
 2. Advance design on the front end 
 
+## Database
+
+The following image shows the relationship present between the "Recipe" and "Ingredients" entities.
+
 ![ERD diagram](ERD.png)
+
+A recipe can contain more than one ingredient, so there is a one-to-many relationship between the two entities. The primary keys of the tables are the id which are automatically generated and the entities are connected to each other through the foreign key (which is the id of the recipe a particular ingredient belongs to).
+The CRUD functionality was implemented in both tables as shown in the following sections. 
+
+## CI Pipeline
+![CI diagram](pipeline.png)
 
 ## Planning
 
