@@ -72,23 +72,23 @@ In order to avoid unexpected issues from happening, a risk assesment table was p
 ![Risk Assessment](Risk.png)
 
 ## Project components
-1. ### Multi Tier Architecture
+### 1. Multi Tier Architecture
 The following image shows the multi-tier architecture of the project. 
 ![Project Components](multi.png)
 The user is only able to view the presentation layer which consists of seven web pages acceccible through the following link ([Homepage (http://35.230.142.245:9000/html/RecipesList.html))
 
 ![Home Page](home.png)
-2. ### CI Server
+### 2. CI Server
 The continuous integration server choosen for the project was circleci (as specified in the requirements). The instructions that the server should perform are specified in the .yml file as shown in the image below.
 ![yml file](yml.png)
 
 ## Future work and reflection on the project
 Although the application is fully funcyional and meets the MVP, there are multiple features that could be added to it and things that could have been done better.
-1. ### Improve graphics
+### 1. Improve graphics
 At the moment, the web application looks basic so the design aspect of the webpages could be improved.
-2. ### Smoother continuous integration
+### 2. Smoother continuous integration
 Currently, whenever the app runs continuosly on the virtual machine and can be stopped only from the terminal. In the future, extra steps should be added on the .yml file to allow circleci to do it directly.
-3. ### Extra functionality
+### 3. Extra functionality
 Features such as creating a shopping list that can be downloaded based on the ingredients of a recipe and a user login page could be added in the future.
 
 ## Summary
