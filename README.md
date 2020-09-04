@@ -58,5 +58,7 @@ In order to interact with the tasks dynamically, "sprints" were created. These a
 
 
 ## Risk assessment
-![Risk Assessment](https://docs.google.com/document/d/1HFkSVNzoGUVQ0q5xYNdBtZqSv8gIKmyCva692vqYvHE/edit?usp=sharing)
+In order to avoid unexpected issues from happening, a risk assesment table was produced that showed potential threats to the project and the mitigation strategy chosen. The table is available on the following lik ([Risk assessment table](https://docs.google.com/document/d/1HFkSVNzoGUVQ0q5xYNdBtZqSv8gIKmyCva692vqYvHE/edit?usp=sharing).
+
+![Risk Assessment](Risk.png)
 
