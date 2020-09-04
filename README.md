@@ -47,9 +47,15 @@ A recipe can contain more than one ingredient, so there is a one-to-many relatio
 The CRUD functionality was implemented in both tables as shown in the following sections. 
 
 ## CI Pipeline
+The following figure shows which technologies were used and the relationship between them. The source code was implemented in Java and to ensure that the changes on the project will not get lost, a version control system (git) was used. The CI server (circleci) keeps track of any new features added to the application by polling the git repository, and as soon as an update is available, the CI server builds the code and deploys it in the virtual machine running on Google Cloud Platform. Finally, Jira Software was used as a project tracking platform. This process guarantees a continuous integration. 
 ![CI diagram](pipeline.png)
 
 ## Planning
+The planning of the project was essential in order to meet the MVP (Minimum Viable Product). The project tracking tool used was a Jira board which allows to produce epics which have user stories with tasks related to them.
+![User Stories](user.png)
+In order to interact with the tasks dynamically, "sprints" were created. These are a good way to keep track of the progress of the project because it allows to classify the tasks as "to do", "in progress" or done.
+![PN board](jira.png)
+
 
 ## Risk assessment
 
